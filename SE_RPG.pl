@@ -51,6 +51,51 @@ descricao('
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Bárbaro').
 
+descricao('
+    
+    *---------------------------------------------|BARDO|---------------------------------------------*
+    |Descrição: Um místico inspirador que possui poderes que ecoam a música da criação                |
+    |Dado de Vida: d8                                                                                 |
+    |Habilidade Primária: Carisma                                                                     |  
+    |Proeficiências em Resistência: Destreza & Carisma                                                |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves, armas simples, bestas de mão, espadas      |
+    |   longas, rapieiras e espadas curtas                                                            |
+    |Símbolo:                                                                                         |
+    |             ./-                                                                                 |
+    |          ::mMMMN/:                                                                              |   
+    |         `soMMMMMyo-                                                                             |   
+    |          /sMMMMMho                                                                              |  
+    |          +sMMMMMho                                                                              |    
+    |           .dMMMN:                                                                               |    
+    |            `MMM/                                                                                |   
+    |            .MMM/                                                                                |   
+    |            -MMM+                                                                                |   
+    |            :MMMo                                                                                |   
+    |            /MMMs                                                                                |   
+    |            +MMMy                                                                                |   
+    |            oMMMh                                                                                |   
+    |            sMMMd                                                                                |   
+    |            yMMMm                                                                                |   
+    |            hMMMN                                                                                |  
+    |            dMMMM                                                                                | 
+    |            mMMMM`                                                                               |
+    |            MMMMMs                                                                               |  
+    |          yMMMMMMMd.                                                                             | 
+    |         .dMMMMMMMMMN:                                                                           |   
+    |        `mMMMMMMMMMMMM.                                                                          |   
+    |        yMMMMMMMMMMMMMm`                                                                         | 
+    |       /MMMMMs:-:oNMMMMs                                                                         | 
+    |      `NM NM.     .MM MM-                                                                        | 
+    |      /MM MMs     :MMM Ms                                                                        | 
+    |      hMMh MMms+ohMMN MMN                                                                        | 
+    |      dMMMN dMMMMMNs MMMM                                                                        | 
+    |      oMMMMM MMMMMy MMMMd                                                                        |
+    |      -NMh  mMMMMMMh  MM/                                                                        |
+    |       -NMMM       MMMM+                                                                         |
+    |        -ymMNNNNNNNMNh:                                                                          | 
+    |           `.....`                                                                               |
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Bardo').
 % ------------------------------------------------------------------
 % Regras sobre as aplicaçães
 % ------------------------------------------------------------------
