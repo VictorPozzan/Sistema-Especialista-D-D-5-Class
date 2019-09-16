@@ -11,45 +11,50 @@
 
 main :- nl, write('Sistema Especialista em escolha de classe de D&D 5.0'), nl,
 	retractall(fato(_, _)),		% limpa a memória de trabalho.
-	classe(A),
+	classe(A), descricao(B),
 	write('De acordo com suas respostas o aconselhamento do sistema especialista é escolher a classe '),
-	write(A), nl.
+	write(A), write(B), nl.
+
+% ------------------------------------------------------------------
+% Regras sobre as descrições 
+% ------------------------------------------------------------------
+descricao('
+    
+    *--------------------------------------------|BÁRBARO|--------------------------------------------*
+    |Descrição: Um feroz guerreiro de origem primitiva que pode entrar em fúria durante uma batalha   |
+    |Dado de Vida: d12                                                                                |
+    |Habilidade Primária: Força                                                                       |  
+    |Proeficiências em Resistência: Força & Constituição                                              |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves e médias, escudos, armas simples e marciais |
+    |Símbolo:                                                                                         |
+    |         :´            `:                                                                        |
+    |        :mm           -Mh.                                                                       |
+    |       -MMM+`   ds   .hMMN:                                                                      |
+    |       ZNMMMNdoVMMVhmMMMMMN`                                                                     |
+    |      dMMMMMMMMMMMMMMMMMMMMo                                                                     |
+    |      MMMMMMMMMMMMMMMMMMMM<                                                                      |
+    |      NMMMMMMMMMMMMMMMMMMMMy                                                                     |
+    |      sMNMMMMNmMMMMmMMMMMMM:                                                                     |
+    |       ZNMMh`  sMMs  -mMMMy                                                                      |
+    |       `dMm     MN    -MMo                                                                       |
+    |         /y     MN    `h-                                                                        |
+    |                MM                                                                               |
+    |               <MM>                                                                              |
+    |               .MM.                                                                              |
+    |               .MM.                                                                              |
+    |               .MM.                                                                              |
+    |               .MM.                                                                              |
+    |               .MM.                                                                              |
+    |               .MM.                                                                              |   
+    |               .MM.                                                                              |
+    |                ..                                                                               |
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Bárbaro').
 
 % ------------------------------------------------------------------
 % Regras sobre as aplicaçães
 % ------------------------------------------------------------------
-
-classe('Bárbaro
-
-        *--------------------------------------------|BÁRBARO|--------------------------------------------*
-        |Descrição: Um feroz guerreiro de origem primitiva que pode entrar em fúria durante uma batalha   |
-        |Dado de Vida: d12                                                                                |
-        |Habilidade Primária: Força                                                                       |  
-        |Proeficiências em Resistência: Força & Constituição                                              |      
-        |Proeficiências em Armas e Armaduras: Armaduras leves e médias, escudos, armas simples e marciais |
-        |Símbolo:                                                                                         |
-        |         :´            `:                                                                        |
-        |        :mm           -Mh.                                                                       |
-        |       -MMM+`   ds   .hMMN:                                                                      |
-        |       ZNMMMNdoVMMVhmMMMMMN`                                                                     |
-        |      dMMMMMMMMMMMMMMMMMMMMo                                                                     |
-        |      MMMMMMMMMMMMMMMMMMMM<                                                                      |
-        |      NMMMMMMMMMMMMMMMMMMMMy                                                                     |
-        |      sMNMMMMNmMMMMmMMMMMMM:                                                                     |
-        |       ZNMMh`  sMMs  -mMMMy                                                                      |
-        |       `dMm     MN    -MMo                                                                       |
-        |         /y     MN    `h-                                                                        |
-        |                MM                                                                               |
-        |               <MM>                                                                              |
-        |               .MM.                                                                              |
-        |               .MM.                                                                              |
-        |               .MM.                                                                              |
-        |               .MM.                                                                              |
-        |               .MM.                                                                              |
-        |               .MM.                                                                              |   
-        |               .MM.                                                                              |
-        |                ..                                                                               |                                                                                                 |
-        *-------------------------------------------------------------------------------------------------*') :-
+classe('Bárbaro') :-
     p1(1),
     p2(1),
     p13(1),
