@@ -96,6 +96,143 @@ descricao('
     |           `.....`                                                                               |
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Bardo').
+
+
+descricao('
+    
+    *---------------------------------------------|BRUXO|---------------------------------------------*
+    |Descrição: Um portador de magia derivada de barganha com uma entidade planar                     |
+    |Dado de Vida: d8                                                                                 |
+    |Habilidade Primária: Carisma                                                                     |  
+    |Proeficiências em Resistência: Sabedoria & Carisma                                               |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves e armas simples                             |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Bruxo').
+
+descricao('
+    
+    *--------------------------------------------|CLÉRIGO|--------------------------------------------*
+    |Descrição: Um campeão sacerdotal que empunha magia divina a serviço de um poder maior            |
+    |Dado de Vida: d8                                                                                 |
+    |Habilidade Primária: Sabedoria                                                                   |  
+    |Proeficiências em Resistência: Sabedoria & Carisma                                               |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves e médias, escudos e armas simples           |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Clérigo').
+
+descricao('
+    
+    *--------------------------------------------|DRUIDA|---------------------------------------------*
+    |Descrição: Um sacerdote da Crença Antiga, detentor dos poderes da natureza – luz da lua e        |
+    |   crescimento das plantas, fogo e relâmpagos – e capaz de adotar formas animais                 |
+    |Dado de Vida: d8                                                                                 |
+    |Habilidade Primária: Sabedoria                                                                   |  
+    |Proeficiências em Resistência: Inteligência & Sabedoria                                          |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves e médias (não-metálicas), escudos           | 
+    |   (não-metálicos), clavas, adagas, dardos, azagaias, maças, bordões, cimitarras, foices, fundas | 
+    |     e lanças                                                                                    |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Druida').
+
+descricao('
+    
+    *-------------------------------------------|FEITICEIRO|------------------------------------------*
+    |Descrição: Um conjurador que possui magia latente advinda de um dom ou linhagem                  |
+    |Dado de Vida: d6                                                                                 |
+    |Habilidade Primária: Carisma                                                                     |  
+    |Proeficiências em Resistência: Constituição & Carisma                                            |      
+    |Proeficiências em Armas e Armaduras: Adagas, dardos, fundas, bordões e bestas leves              |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Feiticeiro').
+
+descricao('
+    
+    *-------------------------------------------|GUERREIRO|-------------------------------------------*
+    |Descrição: Um mestre do combate, perito em uma vasta gama de armas e armaduras                   |
+    |Dado de Vida: d10                                                                                |
+    |Habilidade Primária: Força ou Destreza                                                           |  
+    |Proeficiências em Resistência: Força & Constituição                                              |      
+    |Proeficiências em Armas e Armaduras: Todas as armaduras, armas simples e marciais                |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Guerreiro').
+
+descricao('
+    
+    *--------------------------------------------|LADINO|---------------------------------------------*
+    |Descrição: Um trapaceiro que utiliza de furtividade e astúcia para sobrepujar os obstáculos      | 
+    |   e inimigos                                                                                    |
+    |Dado de Vida: d8                                                                                 |
+    |Habilidade Primária: Destreza                                                                    |  
+    |Proeficiências em Resistência: Destreza & Inteligência                                           |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves, armas simples, bestas de mão, espadas      |
+    |   longas, rapieiras, espadas curtas                                                             |
+    |Símbolo:                                                                                         |                                                       
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Ladino').
+
+descricao('
+    
+    *---------------------------------------------|MAGO|----------------------------------------------*
+    |Descrição: Um usuário de magia escolado, capaz de manipular as estruturas da realidade           |
+    |Dado de Vida: d6                                                                                 |
+    |Habilidade Primária: Inteligência                                                                |  
+    |Proeficiências em Resistência: Inteligência & Sabedoria                                          |      
+    |Proeficiências em Armas e Armaduras: Adagas, dardos, fundas, bastões e bestas leves              |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Mago').
+
+descricao('
+    
+    *--------------------------------------------|MONGE|----------------------------------------------*
+    |Descrição: Um mestre das artes marciais, utilizando o poder corporal para atingir a perfeição    |
+    |   física e espiritual                                                                           |
+    |Dado de Vida: d8                                                                                 |
+    |Habilidade Primária: Destreza & Sabedoria                                                        |  
+    |Proeficiências em Resistência: Força & Destreza                                                  |      
+    |Proeficiências em Armas e Armaduras: Armas simples e espadas curtas                              |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Monge').
+
+descricao('
+    
+    *-------------------------------------------|PALADINO|--------------------------------------------*
+    |Descrição: Um guerreiro divino vinculado a um juramento sagrado                                  |
+    |Dado de Vida: d10                                                                                |
+    |Habilidade Primária: Força & Carisma                                                             |  
+    |Proeficiências em Resistência: Sabedoria & Carisma                                               |      
+    |Proeficiências em Armas e Armaduras: Todas as armaduras, escudos, armas simples e marciais       |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Paladino').
+
+descricao('
+    
+    *------------------------------------------|PATRULHEIRO|------------------------------------------*
+    |Descrição: Um guerreiro que utiliza de poderio marcial e magia natural para combater ameaças nos |
+    |   limites da civilização                                                                        |
+    |Dado de Vida: d10                                                                                |
+    |Habilidade Primária: Destreza & Sabedoria                                                        |  
+    |Proeficiências em Resistência: Força & Destreza                                                  |      
+    |Proeficiências em Armas e Armaduras: Armaduras leves, escudos, armas simples e marciais          |
+    |Símbolo:                                                                                         |
+                                                        
+    *-------------------------------------------------------------------------------------------------*'):-
+    classe('Patrulheiro').
 % ------------------------------------------------------------------
 % Regras sobre as aplicaçães
 % ------------------------------------------------------------------
@@ -116,7 +253,7 @@ classe('Guerreiro') :-
     p13(1),
     p14(2),
     p15(2).
-classe('Clerigo') :-
+classe('Clérigo') :-
     p1(1),
     p2(1),
     p13(2),
@@ -197,7 +334,7 @@ classe('Druida') :-
     p17(2),
     p12(2),
     p11(1).
-classe('clerigo') :-
+classe('Clérigo') :-
     p1(2),
     p3(2),
     p17(2),
