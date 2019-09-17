@@ -107,7 +107,40 @@ descricao('
     |Proeficiências em Resistência: Sabedoria & Carisma                                               |      
     |Proeficiências em Armas e Armaduras: Armaduras leves e armas simples                             |
     |Símbolo:                                                                                         |
-                                                        
+    |                    .                                                                            |
+    |                    :`                                                                           |
+    |                    /.                                                                           |
+    |                    +:                                                                           |
+    |                    s/                                                                           |
+    |                    my                                                                           |
+    |          ``       -MN`       .                                                                  |
+    |           y+`     sMM+     .so                                                                  |
+    |           .md+`   :so-   `omd`                                                                  |
+    |            `.-.  .`:-`.  .-.`                                                                   |
+    |              `-+dNmMNmNh/-`                                                                     |
+    |           -ddmNMhydNNhydMNmdh.                                                                  |
+    |          :ymMMMM` `Nd  -MMMMms-                                                                 | 
+    |            ./hNM+` s/ `sMNy:`                                                                   |
+    |               -smhsoosdmo.                                                                      |
+    |                 .-odd+..                                                                        | 
+    |          `-so      ..      ys-                                                                  |
+    |         /dNy- +-`:hddh.`-/ :hNh-                                                                |
+    |        .Nd:  :MN/.MMMN`oMM` `/mm`                                                               |
+    |       `y+`   sMy  dMMs `dM+   `os                                                               |
+    |       ..     Nm`  +MM-  .Nh     -`                                                              |
+    |             -N-   -MM`   /N`                                                                    |
+    |             o/    .MN     o/                                                                    |
+    |             +     `Mm      +                                                                    |
+    |                    Nd      `                                                                    |
+    |                    my                                                                           |
+    |                    hs                                                                           |
+    |                    yo                                                                           |
+    |                    s/                                                                           |
+    |                    +:                                                                           |
+    |                    /.                                                                           |
+    |                    :`                                                                           |
+    |                    .                                                                            |
+    |                                                                                                 |
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Bruxo').
 
@@ -120,15 +153,43 @@ descricao('
     |Proeficiências em Resistência: Sabedoria & Carisma                                               |      
     |Proeficiências em Armas e Armaduras: Armaduras leves e médias, escudos e armas simples           |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 |
+    |                          +                                                                      |
+    |                          m                                                                      |
+    |                         -M-                                                                     |
+    |                         sMs                                                                     |
+    |                        /MMM+                                                                    |
+    |                 o/:/+smMMMMMmy+/:/o`                                                            |
+    |                 yMMMh+-`   `-+hMMMh                                                             |
+    |                 yMy.  `  .     `sMy                                                             |
+    |                -N/    yydNdyh`   :N-                                                            |
+    |              -sMo  .omMMMMMMMNo.  oMs-                                                          |
+    |          `+ymMMM.  .mMMMMMMMMMN.  `MMMmy+`                                                      |
+    |            -yMMM` `-mMMMMMMMMMN-` `MMMy-                                                        |
+    |              .hM+  .omMMMMMMMms.  /Mh.                                                          |
+    |               `mN-    ysNMNsy    .Nm`                                                           |
+    |                .MN+   ` dMm `   +NM-                                                            |
+    |                 MN/     oMo     /NM`                                                            |
+    |                -d.      +Mo      .h-                                                            |
+    |                .        +Mo        .                                                            |
+    |                         oMo                                                                     |
+    |                         oMs                                                                     |
+    |                         sMs                                                                     |
+    |                         sMy                                                                     |
+    |                         yMy                                                                     |
+    |                         yMy                                                                     |
+    |                         dMd                                                                     |
+    |                        :MMM:                                                                    |
+    |                        -mMm:                                                                    |
+    |                          `                                                                      |                                                          
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Clérigo').
 
 descricao('
     
     *--------------------------------------------|DRUIDA|---------------------------------------------*
-    |Descrição: Um sacerdote da Crença Antiga, detentor dos poderes da natureza – luz da lua e        |
-    |   crescimento das plantas, fogo e relâmpagos – e capaz de adotar formas animais                 |
+    |Descrição: Um sacerdote da Crença Antiga, detentor dos poderes da natureza ( luz da lua e        |
+    |   crescimento das plantas, fogo e relâmpagos)  e capaz de adotar formas animais                 |
     |Dado de Vida: d8                                                                                 |
     |Habilidade Primária: Sabedoria                                                                   |  
     |Proeficiências em Resistência: Inteligência & Sabedoria                                          |      
@@ -136,7 +197,36 @@ descricao('
     |   (não-metálicos), clavas, adagas, dardos, azagaias, maças, bordões, cimitarras, foices, fundas | 
     |     e lanças                                                                                    |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 |
+    |                           ``...`                                                                |
+    |                     `:shmMMMMMMMMNmdy+.                                                         |
+    |                   /hMMMMMmhyso++/:/+syddo`                                                      |
+    |                 /mMMMmo:`                `                                                      |
+    |               `hMMMd:                                                                           |
+    |              `dMMMo                                                                             |
+    |              oMMMs                                                                              |
+    |              dMMM`                                                                              |
+    |              dMMM`                                                                              |
+    |              +MMMy                                                                              |
+    |               yMMMy`                                                                            |
+    |                +NMMNs-                                                                          |
+    |                 `+dMMMmh+                                                                       |
+    |           .o/      `/yMMs                                                                       |
+    |           dMMd``     .MMo                                                                       |
+    |          .MMMMmNm   .NMMM-       -/`                                                            |
+    |         /hMMMMMMM`  :MMMM`     `hMMy                                                            |
+    |         /MMMMMMMNdh :MMMM.   dmdMMMM`                                                           |
+    |          .sNMMMMMMs`:MMMM.  .MMMMMMMy:                                                          |
+    |           yMMMMMMMm.:MMMM` yyMMMMMMMM/                                                          |
+    |           `:/oMMMM: -MMMM `sMMMMMMMy-                                                           |
+    |               -smMh .MMMM`-NMMMMMMNo                                                            |
+    |                  `:-:MMMM. /MMMMso+.                                                            |
+    |                     :MMMM- hMNh/                                                                |
+    |                     .MMMM:::.                                                                   |
+    |                    .dMMMM+                                                                      |
+    |                    sMMMMMo                                                                      |
+    |                    .oNMMN-                                                                      |
+    |                      `.`                                                                        |                                                               
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Druida').
 
@@ -149,7 +239,32 @@ descricao('
     |Proeficiências em Resistência: Constituição & Carisma                                            |      
     |Proeficiências em Armas e Armaduras: Adagas, dardos, fundas, bordões e bestas leves              |
     |Símbolo:                                                                                         |
-                                                        
+    |                    -                                                                            | 
+    |                    y.                                                                           |
+    |                    Ns                                                                           |
+    |                   :MN                                                                           |
+    |                   yMM-                                                                          | 
+    |                  `NMMo                                                                          | 
+    |                  +MMMN`                                                                         | 
+    |                 .NMMMMy                                                                         |
+    |                 hMMMMMM:                                                                        |
+    |                /MMMMMMMm`                                                                       | 
+    |               -NMMMMMMMMy                                                                       | 
+    |              .NMMMMMMMMMMy                                                                      | 
+    |             `mMMMMMMMMMMMMo                                                                     | 
+    |            `mMMMMMMNMMMMMMM+                                                                    | 
+    |            sMMMMMMhdMMMMMMMM.                                                                   | 
+    |           .MMMMMMMm:MMMMMMMMy                                                                   | 
+    |           hMMMMMMMM.mMMMMMMMM-                                                                  | 
+    |          -MMMMMMs+m`syMMMMMMMd                                                                  | 
+    |          sMMMMMd `  s-oMMMMMMM`                                                                 | 
+    |          yMMMMmd    . .NMMMMMM.                                                                 | 
+    |          /MMMMy:.     //oMMMMN                                                                  | 
+    |           mMMMMd     `  hMMMM+                                                                  | 
+    |           -NMMMMh/--`:hNMMMMy                                                                   |
+    |            .dMMMMMMMMMMMMMMo                                                                    | 
+    |              :hMMMMMMMMMms.                                                                     | 
+    |                `-/+oo+:.                                                                        |
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Feiticeiro').
 
@@ -162,7 +277,26 @@ descricao('
     |Proeficiências em Resistência: Força & Constituição                                              |      
     |Proeficiências em Armas e Armaduras: Todas as armaduras, armas simples e marciais                |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 |  
+    |           `.                                                                                    |
+    |           +do.                        `.                                                        |
+    |            `+ds.  -/                `/dM/                                                       |
+    |              `+dsy:  o.```::```.o  :dNMMMh+-.`                                                  |
+    |              `-+hMms.MMmdmMMmdmMM-yy::dMMMMMNy                                                  |
+    |              -: `/dMdMMMMMMMMMMMM+-   `NMMMNy`                                                  |
+    |                    :oMMMMMMMMMMMM     `NMmy-                                                    |
+    |                      NMMMMMMMMMMN    `os/.                                                      |
+    |                      NMMMMMMMMMMN                                                               |
+    |                      NMMMMMMMMMMN                                                               |
+    |                      NMMMMMMMMMMN                                                               |
+    |                   `/sNMMMMMMMMMMN:`                                                             |
+    |                 `+h+`NMMMMMMMMMMNsd/                                                            |
+    |               `+h+`  mMMMMMMMMMMm -yh/                                                          |
+    |             `+h+`    /NMMMMMMMMN/   -sh:                                                        |
+    |           .oh+`       .omMMMMmo.      .oy-                                                      |
+    |           :o`           `/mm/`          `:.                                                     |
+    |                           ``                                                                    |
+    |                                                                                                 |                                                                   
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Guerreiro').
 
@@ -177,6 +311,29 @@ descricao('
     |Proeficiências em Armas e Armaduras: Armaduras leves, armas simples, bestas de mão, espadas      |
     |   longas, rapieiras, espadas curtas                                                             |
     |Símbolo:                                                                                         |                                                       
+    |                         ++                                                                      |
+    |            ./ohhs:      dd     `/yhy+:`                                                         |
+    |       .oydNMMMMMMMNy/`  yh  -odMMMMMMMMNhy+                                                     | 
+    |        .yMMMMMNs+hMMMMMMMMMMMMMNy+hMMMMMm+                                                      | 
+    |          .smMMMNdysdMMMMMMMMMMyshmMMMNd/                                                        | 
+    |              .:oymMMMmsoMMsyNMMNds+-`                                                           | 
+    |                   `..  `MM.  ..                                                                 |   
+    |                         dN                                                                      | 
+    |                      +/:hd:/o`                                                                  | 
+    |                      ..:MMo`-                                                                   | 
+    |                        sMMd                                                                     | 
+    |                        oMMh                                                                     | 
+    |                        +MMy                                                                     | 
+    |                        /MMy                                                                     |  
+    |                        :MMo                                                                     |
+    |                        .MM+                                                                     | 
+    |                        `MM/                                                                     |
+    |                         MM:                                                                     | 
+    |                         mM-                                                                     |  
+    |                         dM.                                                                     | 
+    |                         hM`                                                                     | 
+    |                         +m                                                                      | 
+    |                         `+                                                                      | 
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Ladino').
 
@@ -189,7 +346,33 @@ descricao('
     |Proeficiências em Resistência: Inteligência & Sabedoria                                          |      
     |Proeficiências em Armas e Armaduras: Adagas, dardos, fundas, bastões e bestas leves              |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 |
+    |           *    ||   *                                                                           |
+    |                                                                                                 |
+    |        *    `/shddy/    *                                                                       |
+    |           -NNy+    oNh                                                                          |
+    |           hM:  os  hM`                                                                          |
+    |           hM+  yyhmM+                                                                           |
+    |           .mMo. `--`                                                                            |
+    |             .+hd:                                                                               |
+    |                .m/                                                                              |
+    |                 yy       ´/:                                                                    |
+    |                :N+      o/N /                                                                   |
+    |                m/     `dMMMN+                                                                   |
+    |               `d     `sMMMMo                                                                    |
+    |                `  `sN mMMMh                                                                     |
+    |                  -mM hMMMd`                                                                     |
+    |             `-+ yMn MMMMMd`                                                                     |  
+    |           `yNd dMnMMMMMd`                                                                       |
+    |          .... MMMMMMMmy.                                                                        |
+    |           mmmmMMMMMMms:`                                                                        |
+    |            .MMMMMMMNs-                                                                          |
+    |         `mMMMMMMMMMm`                                                                           |
+    |        .dMMMMMMMMMMN:                                                                           |
+    |      :mMMMMMMMMMMMMh`                                                                           |
+    |      `:ohNMMMMMMN`                                                                              |
+    |          .+syNMd                                                                                |
+    |                                                                                                 |                                                        
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Mago').
 
@@ -203,7 +386,41 @@ descricao('
     |Proeficiências em Resistência: Força & Destreza                                                  |      
     |Proeficiências em Armas e Armaduras: Armas simples e espadas curtas                              |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 |    
+    |                        -:://                                                                    |   
+    |                      /NMMMMm /-.                                                                |      
+    |               `:ohNNh+MMMMMm.MMMms:                                                             |  
+    |               dMMMMMh/MMMMMm-MMMMMm                                                             |     
+    |              .MMMMMMh/MMMMMm:MMMMMd`/:`                                                         |
+    |              +MMMMNNs:MMMMMd/MMMMMh+MMNh                                                        |
+    |              :+++oo-/NMMMMMyoMMMMM+hMMMM`                                                       |
+    |          +yhmNNNMMMo-MMMMMM+sMMMMM-MMMMM.                                                       |
+    |         /MMMMMMMMMMs-MMNmdh:hMMMMd:MMMMN-                                                       |
+    |         /MMMMMMMMdoyNMMNNNNNMMNmdshMNNmd.                                                       |
+    |         :MMMMMMMddNMMMMMMMMMMMMMMMMMMmhN`                                                       |
+    |         -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN                                                        |
+    |         .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                                                        |
+    |         `MMMMMMMMMMMMmyhNMMMMMMMMMMMMMMh                                                        |
+    |          dMMMMMMMMMMMMNdsshhyymMMMMMMMM:                                                        |
+    |          `/dMMMMMMMMMMMMMd +mMMMMMMMMMy                                                         |
+    |            `/hNMMMMMMMMMMM`mMMMMMMMMMd`                                                         |
+    |               -yMMMMMMMMMM/MMMMMMMMd/`                                                          |
+    |                :MMMMMMMMMMdMMMMMMMMs                                                            |
+    |                /MMMMMMMMMMMMMMMMMMMh                                                            |
+    |                /MMMMMMMMMMMMMMMMMMMm                                                            |
+    |                +MMMMMMMMMMMMMMMMMMMM                                                            |
+    |                +MMMMMMMMMMMMMMMMMMMM.                                                           |
+    |                oMMMMMMMMMMMMMMMMMMMM:                                                           |
+    |                oMMMMMMMMMMMMMMMMMMMM+                                                           |
+    |                sMMMMMMMMMMMMMMMMMMMMs                                                           |
+    |                yMMMMMMMMMMMMMMMMMMMMh                                                           |
+    |                yMMMMMMMMMMMMMMMMMMMMm                                                           |
+    |                yMMMMMMMMMMMMMMMMMMMMN                                                           |
+    |                hMMMMMMMMMMMMMMMMMMMMN`                                                          |
+    |                +NMMMMMMMMMMMMMMMMMMd-                                                           |
+    |                 -+sdNMMMMMMMMMMNh+.                                                             |
+    |                      -/sdmmmds:`                                                                |
+    |                                                                                                 |                                                        
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Monge').
 
@@ -216,7 +433,35 @@ descricao('
     |Proeficiências em Resistência: Sabedoria & Carisma                                               |      
     |Proeficiências em Armas e Armaduras: Todas as armaduras, escudos, armas simples e marciais       |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 | 
+    |               `                     `                                                           |
+    |              `+                     o                                                           |
+    |             -d+                     hs`                                                         |
+    |           `hNd`                     -NNo                                                        |
+    |           yMM-                       oMM/                                                       |
+    |          :yMm                        -MMo`                                                      |
+    |         `myMM.          `/           +Mmds                                                      |
+    |         +MNMMo         .yNo`         dMNMM.                                                     |
+    |         -MMMMN/`     .oNMMMm+`     `sMMMMN`                                                     |
+    |         .mMMMMMh/::s/mMMMMMMMd/o::+mMMMMMs.                                                     |
+    |         hdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMho                                                     |
+    |         yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                                                     |
+    |         -dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`                                                     |
+    |          yNMMMMMmsdMMMMMMMMMMMMMhsMMMMMMm+                                                      |
+    |          /dNMMMM+ /MMMMMMMMMMMMM. hMMMMmh-                                                      |
+    |           /mNMMM/ oMy:/hNMmy::dM: yMMMNh-                                                       |
+    |            :+dMm- yMMo` -y. .yMM/ +NNy+-                                                        |
+    |              ./.  hMMMh`   .mMMMo  -:.                                                          |
+    |                  .mMMMM:   sMMMMh`                                                              |
+    |               -+ymMMMMMy   mMMMMMms+.                                                           |
+    |                .sNMMMMMs   mMMMMMN+`                                                            |
+    |                  /NMMMMo   dMMMMd-                                                              |
+    |                   .dMMMo   hMMMy`                                                               |
+    |                    `sMM+   hMN+                                                                 |
+    |                      sM+   yM/                                                                  |
+    |                       y/   y+                                                                   |
+    |                       `-   :                                                                    |
+    |                                                                                                 |                                                                
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Paladino').
 
@@ -230,7 +475,35 @@ descricao('
     |Proeficiências em Resistência: Força & Destreza                                                  |      
     |Proeficiências em Armas e Armaduras: Armaduras leves, escudos, armas simples e marciais          |
     |Símbolo:                                                                                         |
-                                                        
+    |                                                                                                 |    
+    |          `                            `                                                         |  
+    |          s.                          //                                                         |  
+    |          sd`                        .N/                                                         |  
+    |          +Md`                      .mM-                                                         |   
+    |          -MMd.                    -mMM`                                                         |  
+    |           NMMm:                  +NMMd                                                          |   
+    |           sMMMNo               `yMMMM/                                                          |  
+    |           .NMMMMh.            -dMMMMd                                                           |   
+    |            /MMMMMm:         `+NMMMMN-                                                           |   
+    |             yMMMMMMh-      :dMMMMMM+                                                            |      
+    |             `sNMMMMMNo`  .yNMMMMMN+                                                             | 
+    |               :hNMMMMMd:oNMMMMMNy-                                                              |   
+    |                 -smMMdhNMMMMMmo.                                                                |
+    |                   ./ymMMMMNd:`                                                                  |
+    |                   `oNMMNdhmm/                                                                   | 
+    |                  `yMMMd:-mMMMs`                                                                 |
+    |                 .dMMN+`  .sMMMh`                                                                | 
+    |                 :MMm-      /NMN.                                                                |
+    |               `-yMh.  `     -mMs.                                                               |
+    |               sMMh` `/y` oo` .mMM+                                                              |
+    |              /MMd`  oMMs:MMd  .mMN-                                                             | 
+    |             -NMm` /osMMdoMMm-s`-NMm`                                                            |
+    |            `mMN- +MN/+y+-hs:mMh /MMy`                                                           |
+    |           :dMM/  sMMd:hmmd+oMMm` sMMd.                                                          | 
+    |           sMMh    /ooNMMMMMs++`  `mMM/                                                          | 
+    |          :MMM.    sNMMMMMMMMMd`   /MMm.                                                         |
+    |          .mmo      /s+/--:+o+`    `sNh`                                                         |
+    |                                                                                                 |                                                         
     *-------------------------------------------------------------------------------------------------*'):-
     classe('Patrulheiro').
 % ------------------------------------------------------------------
