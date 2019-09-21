@@ -8,6 +8,7 @@
 % Programa Principal
 % ------------------------------------------------------------------
 :- encoding(utf8).
+:- dynamic fato/2.
 
 main :- nl, write('Sistema Especialista em escolha de classe de D&D 5.0'), nl,
 	retractall(fato(_, _)),		% limpa a memória de trabalho.
